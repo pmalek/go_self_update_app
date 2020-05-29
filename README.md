@@ -1,4 +1,4 @@
-# proton_task
+# go_self_update_app
 
 ## How to build
 
